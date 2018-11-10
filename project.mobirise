@@ -1289,6 +1289,12 @@
             ".input-group-btn": {
               "display": "block",
               "text-align": "center"
+            },
+            "H2": {
+              "color": "#767676"
+            },
+            "LABEL": {
+              "color": "#767676"
             }
           },
           "_name": "form1",

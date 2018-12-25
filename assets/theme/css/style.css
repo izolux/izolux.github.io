@@ -1,11 +1,4 @@
-.engine {
-	position: absolute;
-	text-indent: -2400px;
-	text-align: center;
-	padding: 0;
-	top: 0;
-	left: -2400px;
-}/*!
+/*!
  * Mobirise v4 theme (https://mobirise.com/)
  * Copyright 2017 Mobirise
  */
@@ -462,7 +455,6 @@ nav .mbr-section-btn {
   -webkit-align-items: center; }
 
 .card-wrapper {
-  flex: 1;
   -webkit-flex: 1; }
 
 .carousel-control {
@@ -478,3 +470,11 @@ nav .mbr-section-btn {
   display: -webkit-flex; }
 
 /*# sourceMappingURL=style.css.map */
+.engine {
+	position: absolute;
+	text-indent: -2400px;
+	text-align: center;
+	padding: 0;
+	top: 0;
+	left: -2400px;
+}
